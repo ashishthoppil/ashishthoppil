@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @ashishthoppil, I'm a full stack web developer concentrating mainly in Typescript, React.js, Node.js and PHP (Laravel)
-- You can reach me at ashishthoppil23@gmail.com
+# 👋 Howdy, 
+
+I’m Ashish, I love building things for the web. Checkout my portfolio here: https://ashishbthoppil.netlify.app/ 
 
 <!---
 ashishthoppil/ashishthoppil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
