@@ -2,7 +2,7 @@
 
 Checkout my portfolio here: https://ashishbthoppil.netlify.app/
 
-So far, I have coded using TypeScript, JavaScript, React.js, jQuery, PHP, Laravel, Symfony and a little bit of Python & Node.js
+So far, I have coded using TypeScript, JavaScript, React.js, Next.js, jQuery, PHP, Laravel, Symfony and a little bit of Python & Node.js
 
 **DBs I have used:** mySQL, mongoDB
 
